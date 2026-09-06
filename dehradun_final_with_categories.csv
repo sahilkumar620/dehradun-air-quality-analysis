@@ -1,0 +1,413 @@
+date,station,PM10,PM2.5,SO2,NOx,AQI,year,month,weekday,is_weekend,season,AQI_category
+2020-01-03,Clock Tower,168.5,95.15,24.38,28.73,217.0,2020,1,Friday,False,Winter,Poor
+2020-01-04,Raipur Road,127.27,,23.49,27.74,118.0,2020,1,Saturday,True,Winter,Moderate
+2020-01-06,Himalayan Drug (ISBT),168.9,105.28,24.39,28.8,251.0,2020,1,Monday,False,Winter,Poor
+2020-01-09,Clock Tower,149.6,90.34,24.05,27.8,201.0,2020,1,Thursday,False,Winter,Poor
+2020-01-10,Raipur Road,130.29,73.44,23.14,27.25,145.0,2020,1,Friday,False,Winter,Moderate
+2020-01-13,Himalayan Drug (ISBT),191.1,104.33,25.07,28.79,248.0,2020,1,Monday,False,Winter,Poor
+2020-01-15,Clock Tower,147.5,92.42,24.71,28.62,208.0,2020,1,Wednesday,False,Winter,Poor
+2020-01-16,Raipur Road,129.83,80.16,23.99,27.86,167.0,2020,1,Thursday,False,Winter,Moderate
+2020-01-17,Himalayan Drug (ISBT),183.3,94.78,23.97,28.28,216.0,2020,1,Friday,False,Winter,Poor
+2020-01-20,Raipur Road,125.63,79.51,23.7,28.13,165.0,2020,1,Monday,False,Winter,Moderate
+2020-01-21,Himalayan Drug (ISBT),209.3,112.59,25.31,29.59,275.0,2020,1,Tuesday,False,Winter,Poor
+2020-01-22,Clock Tower,180.4,104.05,24.24,27.7,247.0,2020,1,Wednesday,False,Winter,Poor
+2020-01-23,Raipur Road,129.22,69.03,24.52,27.68,130.0,2020,1,Thursday,False,Winter,Moderate
+2020-01-24,Himalayan Drug (ISBT),170.6,103.85,25.7,28.85,246.0,2020,1,Friday,False,Winter,Poor
+2020-01-25,Clock Tower,205.0,99.56,25.28,29.67,232.0,2020,1,Saturday,True,Winter,Poor
+2020-01-27,Raipur Road,132.28,66.79,23.57,27.72,123.0,2020,1,Monday,False,Winter,Moderate
+2020-01-29,Himalayan Drug (ISBT),177.4,98.05,26.18,29.72,227.0,2020,1,Wednesday,False,Winter,Poor
+2020-01-30,Clock Tower,177.0,72.11,24.31,28.07,151.0,2020,1,Thursday,False,Winter,Moderate
+2020-01-31,Raipur Road,126.24,61.16,24.12,28.05,117.0,2020,1,Friday,False,Winter,Moderate
+2020-02-01,Clock Tower,192.8,85.09,25.39,28.67,184.0,2020,2,Saturday,True,Winter,Moderate
+2020-02-03,Raipur Road,126.64,74.15,24.2,27.8,147.0,2020,2,Monday,False,Winter,Moderate
+2020-02-04,Himalayan Drug (ISBT),210.31,93.53,25.71,29.08,212.0,2020,2,Tuesday,False,Winter,Poor
+2020-02-05,Clock Tower,199.0,94.7,24.83,28.81,216.0,2020,2,Wednesday,False,Winter,Poor
+2020-02-06,Raipur Road,134.88,79.27,24.7,27.98,164.0,2020,2,Thursday,False,Winter,Moderate
+2020-02-07,Himalayan Drug (ISBT),215.9,106.52,25.23,29.05,255.0,2020,2,Friday,False,Winter,Poor
+2020-02-10,Clock Tower,206.3,87.4,24.28,28.78,191.0,2020,2,Monday,False,Winter,Moderate
+2020-02-11,Raipur Road,131.37,54.97,24.4,28.33,121.0,2020,2,Tuesday,False,Winter,Moderate
+2020-02-12,Himalayan Drug (ISBT),212.52,99.36,24.22,29.71,231.0,2020,2,Wednesday,False,Winter,Poor
+2020-02-13,Clock Tower,192.9,91.38,24.7,29.61,205.0,2020,2,Thursday,False,Winter,Poor
+2020-02-14,Raipur Road,135.78,78.26,23.6,27.72,161.0,2020,2,Friday,False,Winter,Moderate
+2020-02-15,Himalayan Drug (ISBT),213.18,103.86,25.1,29.36,246.0,2020,2,Saturday,True,Winter,Poor
+2020-02-17,Clock Tower,191.4,93.54,25.03,29.86,212.0,2020,2,Monday,False,Winter,Poor
+2020-02-18,Raipur Road,116.58,75.85,24.3,28.2,153.0,2020,2,Tuesday,False,Winter,Moderate
+2020-02-19,Himalayan Drug (ISBT),214.1,103.33,26.24,29.94,244.0,2020,2,Wednesday,False,Winter,Poor
+2020-02-20,Clock Tower,178.7,85.68,25.09,29.67,186.0,2020,2,Thursday,False,Winter,Moderate
+2020-02-22,Raipur Road,130.31,68.77,25.7,29.11,129.0,2020,2,Saturday,True,Winter,Moderate
+2020-02-24,Himalayan Drug (ISBT),205.68,99.04,27.14,30.02,230.0,2020,2,Monday,False,Winter,Poor
+2020-02-25,Clock Tower,169.0,93.74,25.12,28.79,212.0,2020,2,Tuesday,False,Winter,Poor
+2020-02-26,Raipur Road,139.0,70.99,25.0,28.23,137.0,2020,2,Wednesday,False,Winter,Moderate
+2020-02-27,Himalayan Drug (ISBT),211.91,102.41,26.2,29.05,241.0,2020,2,Thursday,False,Winter,Poor
+2020-02-28,Clock Tower,191.4,96.52,26.55,29.63,222.0,2020,2,Friday,False,Winter,Poor
+2020-03-02,Clock Tower,189.47,,25.47,28.65,160.0,2020,3,Monday,False,Summer,Moderate
+2020-03-03,Raipur Road,131.44,72.21,24.09,27.35,141.0,2020,3,Tuesday,False,Summer,Moderate
+2020-03-04,Himalayan Drug (ISBT),193.83,97.69,25.72,29.16,226.0,2020,3,Wednesday,False,Summer,Poor
+2020-03-05,Clock Tower,183.18,,25.24,29.62,155.0,2020,3,Thursday,False,Summer,Moderate
+2020-03-11,Raipur Road,114.43,62.48,23.43,26.38,110.0,2020,3,Wednesday,False,Summer,Moderate
+2020-03-16,Himalayan Drug (ISBT),211.75,83.96,26.09,29.76,180.0,2020,3,Monday,False,Summer,Moderate
+2020-03-17,Clock Tower,171.52,,24.31,28.27,148.0,2020,3,Tuesday,False,Summer,Moderate
+2020-03-18,Raipur Road,114.73,66.45,23.83,26.72,122.0,2020,3,Wednesday,False,Summer,Moderate
+2020-03-19,Himalayan Drug (ISBT),196.21,101.53,26.12,28.69,238.0,2020,3,Thursday,False,Summer,Poor
+2020-03-20,Clock Tower,165.59,,24.73,27.92,144.0,2020,3,Friday,False,Summer,Moderate
+2020-03-21,Raipur Road,113.91,71.59,24.89,26.45,139.0,2020,3,Saturday,True,Summer,Moderate
+2020-04-06,Clock Tower,76.01,,6.95,8.06,76.0,2020,4,Monday,False,Summer,Satisfactory
+2020-04-06,Himalayan Drug (ISBT),67.01,23.44,8.31,11.14,67.0,2020,4,Monday,False,Summer,Satisfactory
+2020-04-06,Raipur Road,72.58,33.99,5.74,6.91,73.0,2020,4,Monday,False,Summer,Satisfactory
+2020-04-24,Clock Tower,70.93,47.62,7.93,9.82,79.0,2020,4,Friday,False,Summer,Satisfactory
+2020-04-24,Raipur Road,80.57,40.21,7.75,8.86,81.0,2020,4,Friday,False,Summer,Satisfactory
+2020-04-25,Himalayan Drug (ISBT),91.69,59.53,10.03,12.13,99.0,2020,4,Saturday,True,Summer,Satisfactory
+2020-05-05,Clock Tower,99.9,,12.32,16.07,100.0,2020,5,Tuesday,False,Summer,Satisfactory
+2020-05-07,Himalayan Drug (ISBT),102.07,71.77,13.74,17.8,139.0,2020,5,Thursday,False,Summer,Moderate
+2020-05-09,Raipur Road,83.08,46.3,11.69,15.83,83.0,2020,5,Saturday,True,Summer,Satisfactory
+2020-05-11,Clock Tower,114.63,,14.74,18.24,110.0,2020,5,Monday,False,Summer,Moderate
+2020-05-13,Raipur Road,84.09,41.76,10.69,14.7,84.0,2020,5,Wednesday,False,Summer,Satisfactory
+2020-05-15,Himalayan Drug (ISBT),105.43,74.08,13.97,18.67,147.0,2020,5,Friday,False,Summer,Moderate
+2020-05-18,Clock Tower,161.26,,20.89,25.69,141.0,2020,5,Monday,False,Summer,Moderate
+2020-05-20,Raipur Road,109.74,45.53,15.68,21.09,106.0,2020,5,Wednesday,False,Summer,Moderate
+2020-05-22,Himalayan Drug (ISBT),124.28,80.41,16.11,21.24,168.0,2020,5,Friday,False,Summer,Moderate
+2020-05-26,Clock Tower,152.56,,22.68,26.71,135.0,2020,5,Tuesday,False,Summer,Moderate
+2020-05-28,Raipur Road,126.59,51.89,18.14,22.4,118.0,2020,5,Thursday,False,Summer,Moderate
+2020-05-30,Himalayan Drug (ISBT),110.19,76.19,17.84,21.97,154.0,2020,5,Saturday,True,Summer,Moderate
+2020-06-01,Clock Tower,118.65,,18.21,24.7,112.0,2020,6,Monday,False,Monsoon,Moderate
+2020-06-02,Raipur Road,87.88,66.74,14.49,21.74,122.0,2020,6,Tuesday,False,Monsoon,Moderate
+2020-06-03,Himalayan Drug (ISBT),102.1,74.35,16.9,23.66,148.0,2020,6,Wednesday,False,Monsoon,Moderate
+2020-06-04,Clock Tower,118.61,,19.27,25.74,112.0,2020,6,Thursday,False,Monsoon,Moderate
+2020-06-08,Clock Tower,115.53,,19.66,24.76,110.0,2020,6,Monday,False,Monsoon,Moderate
+2020-06-09,Raipur Road,94.87,73.51,16.43,22.15,145.0,2020,6,Tuesday,False,Monsoon,Moderate
+2020-06-10,Himalayan Drug (ISBT),117.6,72.41,18.67,22.2,141.0,2020,6,Wednesday,False,Monsoon,Moderate
+2020-06-11,Clock Tower,134.93,,21.19,26.13,123.0,2020,6,Thursday,False,Monsoon,Moderate
+2020-06-12,Raipur Road,97.56,61.54,18.26,23.66,105.0,2020,6,Friday,False,Monsoon,Moderate
+2020-06-15,Himalayan Drug (ISBT),123.5,79.1,19.72,25.61,164.0,2020,6,Monday,False,Monsoon,Moderate
+2020-06-16,Clock Tower,117.82,,21.55,25.13,112.0,2020,6,Tuesday,False,Monsoon,Moderate
+2020-06-17,Raipur Road,103.01,62.09,19.0,22.67,107.0,2020,6,Wednesday,False,Monsoon,Moderate
+2020-06-18,Himalayan Drug (ISBT),115.8,82.18,20.63,24.69,174.0,2020,6,Thursday,False,Monsoon,Moderate
+2020-06-19,Clock Tower,131.18,,22.6,25.7,121.0,2020,6,Friday,False,Monsoon,Moderate
+2020-06-22,Himalayan Drug (ISBT),102.6,75.62,21.08,23.34,152.0,2020,6,Monday,False,Monsoon,Moderate
+2020-06-23,Clock Tower,131.71,,23.7,24.64,121.0,2020,6,Tuesday,False,Monsoon,Moderate
+2020-06-25,Raipur Road,94.97,64.8,17.73,21.58,116.0,2020,6,Thursday,False,Monsoon,Moderate
+2020-06-26,Himalayan Drug (ISBT),113.7,69.38,22.12,24.19,131.0,2020,6,Friday,False,Monsoon,Moderate
+2020-06-29,Clock Tower,91.12,,21.96,23.22,91.0,2020,6,Monday,False,Monsoon,Satisfactory
+2020-06-30,Raipur Road,100.27,58.58,18.17,22.05,100.0,2020,6,Tuesday,False,Monsoon,Satisfactory
+2020-07-02,Raipur Road,100.53,,20.87,23.6,100.0,2020,7,Thursday,False,Monsoon,Satisfactory
+2020-07-06,Raipur Road,92.61,,19.33,22.05,93.0,2020,7,Monday,False,Monsoon,Satisfactory
+2020-07-07,Himalayan Drug (ISBT),114.79,,20.68,25.66,110.0,2020,7,Tuesday,False,Monsoon,Moderate
+2020-07-08,Clock Tower,91.55,,19.96,26.16,92.0,2020,7,Wednesday,False,Monsoon,Satisfactory
+2020-07-09,Raipur Road,86.31,,18.26,23.13,86.0,2020,7,Thursday,False,Monsoon,Satisfactory
+2020-07-13,Clock Tower,94.71,,20.71,24.84,95.0,2020,7,Monday,False,Monsoon,Satisfactory
+2020-07-14,Raipur Road,95.15,,16.82,22.75,95.0,2020,7,Tuesday,False,Monsoon,Satisfactory
+2020-07-15,Himalayan Drug (ISBT),93.82,,19.85,24.71,94.0,2020,7,Wednesday,False,Monsoon,Satisfactory
+2020-07-17,Raipur Road,76.02,,19.33,22.7,76.0,2020,7,Friday,False,Monsoon,Satisfactory
+2020-07-20,Clock Tower,66.41,,19.65,25.78,66.0,2020,7,Monday,False,Monsoon,Satisfactory
+2020-07-22,Himalayan Drug (ISBT),78.99,,20.75,23.8,79.0,2020,7,Wednesday,False,Monsoon,Satisfactory
+2020-07-23,Clock Tower,83.4,,20.62,23.57,83.0,2020,7,Thursday,False,Monsoon,Satisfactory
+2020-07-24,Raipur Road,79.68,,20.02,22.33,80.0,2020,7,Friday,False,Monsoon,Satisfactory
+2020-07-27,Clock Tower,79.68,,22.07,25.03,80.0,2020,7,Monday,False,Monsoon,Satisfactory
+2020-07-30,Clock Tower,72.42,,22.64,24.51,72.0,2020,7,Thursday,False,Monsoon,Satisfactory
+2020-07-31,Himalayan Drug (ISBT),87.73,,21.53,24.14,88.0,2020,7,Friday,False,Monsoon,Satisfactory
+2020-08-04,Clock Tower,91.71,,22.15,27.2,92.0,2020,8,Tuesday,False,Monsoon,Satisfactory
+2020-08-05,Raipur Road,74.4,,23.18,24.03,74.0,2020,8,Wednesday,False,Monsoon,Satisfactory
+2020-08-06,Himalayan Drug (ISBT),92.89,,21.74,26.68,93.0,2020,8,Thursday,False,Monsoon,Satisfactory
+2020-08-07,Clock Tower,91.17,,22.8,27.67,91.0,2020,8,Friday,False,Monsoon,Satisfactory
+2020-08-11,Himalayan Drug (ISBT),89.41,,22.65,26.52,89.0,2020,8,Tuesday,False,Monsoon,Satisfactory
+2020-08-14,Himalayan Drug (ISBT),100.22,,21.83,25.57,100.0,2020,8,Friday,False,Monsoon,Satisfactory
+2020-08-21,Clock Tower,85.83,,21.53,26.71,86.0,2020,8,Friday,False,Monsoon,Satisfactory
+2020-08-22,Raipur Road,78.54,,19.62,22.59,79.0,2020,8,Saturday,True,Monsoon,Satisfactory
+2020-08-24,Himalayan Drug (ISBT),99.41,,22.59,26.55,99.0,2020,8,Monday,False,Monsoon,Satisfactory
+2020-08-27,Raipur Road,85.06,,21.05,22.96,85.0,2020,8,Thursday,False,Monsoon,Satisfactory
+2020-08-28,Himalayan Drug (ISBT),79.29,,21.75,25.59,79.0,2020,8,Friday,False,Monsoon,Satisfactory
+2020-08-29,Clock Tower,81.72,,22.2,25.67,82.0,2020,8,Saturday,True,Monsoon,Satisfactory
+2020-08-31,Raipur Road,83.27,,20.04,22.14,83.0,2020,8,Monday,False,Monsoon,Satisfactory
+2020-09-03,Clock Tower,86.33,,21.35,25.3,86.0,2020,9,Thursday,False,Monsoon,Satisfactory
+2020-09-03,Raipur Road,86.33,,21.35,25.3,86.0,2020,9,Thursday,False,Monsoon,Satisfactory
+2020-09-04,Himalayan Drug (ISBT),90.32,,22.39,26.72,90.0,2020,9,Friday,False,Monsoon,Satisfactory
+2020-09-07,Clock Tower,82.14,,21.38,26.42,82.0,2020,9,Monday,False,Monsoon,Satisfactory
+2020-09-07,Raipur Road,82.14,,21.38,26.42,82.0,2020,9,Monday,False,Monsoon,Satisfactory
+2020-09-08,Himalayan Drug (ISBT),92.6,,22.76,27.75,93.0,2020,9,Tuesday,False,Monsoon,Satisfactory
+2020-09-10,Clock Tower,82.8,,23.46,26.11,83.0,2020,9,Thursday,False,Monsoon,Satisfactory
+2020-09-10,Raipur Road,82.8,,23.46,26.11,83.0,2020,9,Thursday,False,Monsoon,Satisfactory
+2020-09-11,Himalayan Drug (ISBT),102.48,,22.6,26.69,102.0,2020,9,Friday,False,Monsoon,Moderate
+2020-09-15,Clock Tower,87.44,,21.41,24.15,87.0,2020,9,Tuesday,False,Monsoon,Satisfactory
+2020-09-15,Raipur Road,87.44,,21.41,24.15,87.0,2020,9,Tuesday,False,Monsoon,Satisfactory
+2020-09-16,Himalayan Drug (ISBT),105.96,,23.63,27.72,104.0,2020,9,Wednesday,False,Monsoon,Moderate
+2020-09-18,Clock Tower,98.5,,22.63,25.26,99.0,2020,9,Friday,False,Monsoon,Satisfactory
+2020-09-18,Raipur Road,98.5,,22.63,25.26,99.0,2020,9,Friday,False,Monsoon,Satisfactory
+2020-09-19,Himalayan Drug (ISBT),102.51,,23.61,27.07,102.0,2020,9,Saturday,True,Monsoon,Moderate
+2020-09-22,Clock Tower,89.27,,21.13,26.36,89.0,2020,9,Tuesday,False,Monsoon,Satisfactory
+2020-09-22,Raipur Road,89.27,,21.13,26.36,89.0,2020,9,Tuesday,False,Monsoon,Satisfactory
+2020-09-23,Himalayan Drug (ISBT),105.81,,23.62,27.7,104.0,2020,9,Wednesday,False,Monsoon,Moderate
+2020-09-25,Clock Tower,106.36,,22.16,25.92,104.0,2020,9,Friday,False,Monsoon,Moderate
+2020-09-25,Raipur Road,106.36,,22.16,25.92,104.0,2020,9,Friday,False,Monsoon,Moderate
+2020-09-26,Himalayan Drug (ISBT),114.82,,23.17,28.23,110.0,2020,9,Saturday,True,Monsoon,Moderate
+2020-09-29,Clock Tower,117.05,,21.14,24.99,111.0,2020,9,Tuesday,False,Monsoon,Moderate
+2020-09-29,Raipur Road,117.05,,21.14,24.99,111.0,2020,9,Tuesday,False,Monsoon,Moderate
+2020-10-01,Clock Tower,160.41,,23.54,27.57,140.0,2020,10,Thursday,False,Post-Monsoon,Moderate
+2020-10-03,Raipur Road,142.1,,21.42,27.13,128.0,2020,10,Saturday,True,Post-Monsoon,Moderate
+2020-10-05,Himalayan Drug (ISBT),154.73,,25.5,29.19,136.0,2020,10,Monday,False,Post-Monsoon,Moderate
+2020-10-06,Clock Tower,164.52,,24.58,28.61,143.0,2020,10,Tuesday,False,Post-Monsoon,Moderate
+2020-10-07,Raipur Road,148.19,,22.57,26.4,132.0,2020,10,Wednesday,False,Post-Monsoon,Moderate
+2020-10-08,Himalayan Drug (ISBT),167.84,,24.17,28.22,145.0,2020,10,Thursday,False,Post-Monsoon,Moderate
+2020-10-09,Clock Tower,155.92,,24.67,27.58,137.0,2020,10,Friday,False,Post-Monsoon,Moderate
+2020-10-12,Raipur Road,143.48,,21.65,26.0,129.0,2020,10,Monday,False,Post-Monsoon,Moderate
+2020-10-13,Himalayan Drug (ISBT),164.24,,24.81,28.74,143.0,2020,10,Tuesday,False,Post-Monsoon,Moderate
+2020-10-14,Clock Tower,155.08,,24.85,28.18,137.0,2020,10,Wednesday,False,Post-Monsoon,Moderate
+2020-10-15,Raipur Road,153.62,,22.4,26.62,136.0,2020,10,Thursday,False,Post-Monsoon,Moderate
+2020-10-16,Himalayan Drug (ISBT),179.83,,25.59,28.75,153.0,2020,10,Friday,False,Post-Monsoon,Moderate
+2020-10-17,Clock Tower,169.27,,24.85,28.18,146.0,2020,10,Saturday,True,Post-Monsoon,Moderate
+2020-10-19,Raipur Road,155.04,,22.86,27.7,137.0,2020,10,Monday,False,Post-Monsoon,Moderate
+2020-10-20,Himalayan Drug (ISBT),181.5,,25.59,28.75,154.0,2020,10,Tuesday,False,Post-Monsoon,Moderate
+2020-10-21,Clock Tower,163.96,,24.71,28.78,143.0,2020,10,Wednesday,False,Post-Monsoon,Moderate
+2020-10-22,Raipur Road,162.44,,22.29,27.0,142.0,2020,10,Thursday,False,Post-Monsoon,Moderate
+2020-10-23,Himalayan Drug (ISBT),165.08,,26.48,27.09,143.0,2020,10,Friday,False,Post-Monsoon,Moderate
+2020-10-26,Raipur Road,166.65,,22.3,26.45,144.0,2020,10,Monday,False,Post-Monsoon,Moderate
+2020-10-27,Himalayan Drug (ISBT),178.06,,25.05,28.17,152.0,2020,10,Tuesday,False,Post-Monsoon,Moderate
+2020-10-28,Clock Tower,170.24,,23.4,27.73,147.0,2020,10,Wednesday,False,Post-Monsoon,Moderate
+2020-10-29,Raipur Road,169.92,,22.69,27.35,147.0,2020,10,Thursday,False,Post-Monsoon,Moderate
+2020-11-02,Clock Tower,220.75,,22.75,27.05,181.0,2020,11,Monday,False,Post-Monsoon,Moderate
+2020-11-03,Raipur Road,161.27,100.22,21.81,26.41,234.0,2020,11,Tuesday,False,Post-Monsoon,Poor
+2020-11-04,Himalayan Drug (ISBT),214.52,107.36,24.53,27.72,258.0,2020,11,Wednesday,False,Post-Monsoon,Poor
+2020-11-05,Clock Tower,195.67,,23.74,27.13,164.0,2020,11,Thursday,False,Post-Monsoon,Moderate
+2020-11-06,Raipur Road,169.24,92.81,21.17,25.77,209.0,2020,11,Friday,False,Post-Monsoon,Poor
+2020-11-07,Himalayan Drug (ISBT),195.36,97.94,23.84,28.47,226.0,2020,11,Saturday,True,Post-Monsoon,Poor
+2020-11-11,Himalayan Drug (ISBT),186.07,88.47,24.34,28.49,195.0,2020,11,Wednesday,False,Post-Monsoon,Moderate
+2020-11-12,Clock Tower,177.28,83.52,24.54,27.69,178.0,2020,11,Thursday,False,Post-Monsoon,Moderate
+2020-11-13,Raipur Road,177.47,103.41,23.17,27.72,245.0,2020,11,Friday,False,Post-Monsoon,Poor
+2020-11-17,Clock Tower,163.43,78.22,23.07,28.62,161.0,2020,11,Tuesday,False,Post-Monsoon,Moderate
+2020-11-18,Raipur Road,173.94,88.12,23.96,26.85,194.0,2020,11,Wednesday,False,Post-Monsoon,Moderate
+2020-11-19,Himalayan Drug (ISBT),180.15,107.2,23.63,28.84,257.0,2020,11,Thursday,False,Post-Monsoon,Poor
+2020-11-20,Clock Tower,175.34,91.99,23.69,28.81,207.0,2020,11,Friday,False,Post-Monsoon,Poor
+2020-11-21,Raipur Road,169.69,79.99,25.19,27.65,167.0,2020,11,Saturday,True,Post-Monsoon,Moderate
+2020-11-23,Himalayan Drug (ISBT),190.85,94.12,24.73,29.56,214.0,2020,11,Monday,False,Post-Monsoon,Poor
+2020-11-25,Raipur Road,108.57,75.78,22.24,26.74,153.0,2020,11,Wednesday,False,Post-Monsoon,Moderate
+2020-11-26,Himalayan Drug (ISBT),184.99,101.99,23.83,28.74,240.0,2020,11,Thursday,False,Post-Monsoon,Poor
+2020-11-27,Clock Tower,162.45,84.23,22.78,28.54,181.0,2020,11,Friday,False,Post-Monsoon,Moderate
+2020-11-28,Raipur Road,154.8,76.86,23.71,28.14,156.0,2020,11,Saturday,True,Post-Monsoon,Moderate
+2020-12-02,Clock Tower,165.67,108.6,24.09,27.65,262.0,2020,12,Wednesday,False,Winter,Poor
+2020-12-03,Raipur Road,160.98,90.7,21.89,26.52,202.0,2020,12,Thursday,False,Winter,Poor
+2020-12-04,Himalayan Drug (ISBT),175.57,103.0,23.89,28.63,243.0,2020,12,Friday,False,Winter,Poor
+2020-12-05,Clock Tower,170.62,102.3,25.15,27.24,241.0,2020,12,Saturday,True,Winter,Poor
+2020-12-07,Raipur Road,169.78,88.1,22.19,27.59,194.0,2020,12,Monday,False,Winter,Moderate
+2020-12-08,Himalayan Drug (ISBT),170.92,96.2,24.08,28.22,221.0,2020,12,Tuesday,False,Winter,Poor
+2020-12-09,Clock Tower,182.95,100.6,24.65,28.79,235.0,2020,12,Wednesday,False,Winter,Poor
+2020-12-10,Raipur Road,161.7,85.3,23.58,28.62,184.0,2020,12,Thursday,False,Winter,Moderate
+2020-12-14,Clock Tower,172.96,104.0,23.9,27.72,247.0,2020,12,Monday,False,Winter,Poor
+2020-12-15,Raipur Road,148.64,81.4,23.98,27.68,171.0,2020,12,Tuesday,False,Winter,Moderate
+2020-12-16,Himalayan Drug (ISBT),175.38,98.9,24.39,28.6,230.0,2020,12,Wednesday,False,Winter,Poor
+2020-12-17,Clock Tower,161.94,99.36,23.38,28.46,231.0,2020,12,Thursday,False,Winter,Poor
+2020-12-18,Raipur Road,160.58,89.4,25.65,28.2,198.0,2020,12,Friday,False,Winter,Moderate
+2020-12-19,Himalayan Drug (ISBT),170.51,102.0,23.34,27.74,240.0,2020,12,Saturday,True,Winter,Poor
+2020-12-21,Clock Tower,172.87,104.1,23.7,29.55,247.0,2020,12,Monday,False,Winter,Poor
+2020-12-22,Raipur Road,146.11,85.1,22.57,27.67,184.0,2020,12,Tuesday,False,Winter,Moderate
+2020-12-23,Himalayan Drug (ISBT),182.43,105.0,24.66,29.18,250.0,2020,12,Wednesday,False,Winter,Poor
+2020-12-24,Clock Tower,172.38,100.1,24.62,28.24,234.0,2020,12,Thursday,False,Winter,Poor
+2020-12-26,Raipur Road,163.03,94.9,23.65,28.58,216.0,2020,12,Saturday,True,Winter,Poor
+2020-12-28,Himalayan Drug (ISBT),160.76,100.0,23.67,27.89,233.0,2020,12,Monday,False,Winter,Poor
+2020-12-29,Clock Tower,183.95,106.6,23.66,28.66,255.0,2020,12,Tuesday,False,Winter,Poor
+2020-12-30,Raipur Road,153.1,91.86,24.09,28.31,206.0,2020,12,Wednesday,False,Winter,Poor
+2020-12-31,Himalayan Drug (ISBT),177.24,102.4,24.67,29.16,241.0,2020,12,Thursday,False,Winter,Poor
+2021-01-01,Clock Tower,171.8,99.25,24.37,28.65,231.0,2021,1,Friday,False,Winter,Poor
+2021-01-02,Raipur Road,158.44,87.17,22.08,26.6,191.0,2021,1,Saturday,True,Winter,Moderate
+2021-01-04,Himalayan Drug (ISBT),175.1,94.45,24.2,28.7,215.0,2021,1,Monday,False,Winter,Poor
+2021-01-07,Himalayan Drug (ISBT),198.8,99.42,24.6,28.2,231.0,2021,1,Thursday,False,Winter,Poor
+2021-01-08,Clock Tower,159.98,101.12,24.31,27.77,237.0,2021,1,Friday,False,Winter,Poor
+2021-01-11,Raipur Road,161.02,96.77,22.14,27.33,223.0,2021,1,Monday,False,Winter,Poor
+2021-01-12,Himalayan Drug (ISBT),173.6,104.35,24.8,28.8,248.0,2021,1,Tuesday,False,Winter,Poor
+2021-01-14,Clock Tower,173.92,97.65,25.62,28.7,226.0,2021,1,Thursday,False,Winter,Poor
+2021-01-15,Raipur Road,151.91,92.26,23.69,28.52,208.0,2021,1,Friday,False,Winter,Poor
+2021-01-16,Himalayan Drug (ISBT),178.7,102.65,23.6,28.1,242.0,2021,1,Saturday,True,Winter,Poor
+2021-01-18,Clock Tower,167.9,100.24,23.76,28.12,234.0,2021,1,Monday,False,Winter,Poor
+2021-01-19,Raipur Road,153.59,90.97,24.61,27.94,203.0,2021,1,Tuesday,False,Winter,Poor
+2021-01-21,Himalayan Drug (ISBT),177.1,100.06,24.3,29.6,234.0,2021,1,Thursday,False,Winter,Poor
+2021-01-22,Clock Tower,179.16,102.19,23.11,28.67,241.0,2021,1,Friday,False,Winter,Poor
+2021-01-23,Raipur Road,149.9,83.94,24.75,27.93,180.0,2021,1,Saturday,True,Winter,Moderate
+2021-01-25,Himalayan Drug (ISBT),180.5,96.16,23.9,27.6,221.0,2021,1,Monday,False,Winter,Poor
+2021-01-27,Clock Tower,173.72,98.35,23.65,29.65,228.0,2021,1,Wednesday,False,Winter,Poor
+2021-01-28,Raipur Road,157.22,88.72,23.56,27.62,196.0,2021,1,Thursday,False,Winter,Moderate
+2021-01-29,Himalayan Drug (ISBT),174.9,101.09,24.6,28.6,237.0,2021,1,Friday,False,Winter,Poor
+2021-01-30,Clock Tower,186.42,103.27,24.84,28.16,244.0,2021,1,Saturday,True,Winter,Poor
+2021-02-01,Clock Tower,158.5,96.52,23.5,28.2,222.0,2021,2,Monday,False,Winter,Poor
+2021-02-02,Raipur Road,164.9,90.07,21.93,26.66,200.0,2021,2,Tuesday,False,Winter,Moderate
+2021-02-03,Himalayan Drug (ISBT),181.41,94.5,24.08,28.79,215.0,2021,2,Wednesday,False,Winter,Poor
+2021-02-05,Raipur Road,159.61,95.11,23.75,27.63,217.0,2021,2,Friday,False,Winter,Poor
+2021-02-06,Himalayan Drug (ISBT),175.0,103.65,24.57,28.16,246.0,2021,2,Saturday,True,Winter,Poor
+2021-02-08,Clock Tower,189.75,,24.5,28.3,160.0,2021,2,Monday,False,Winter,Moderate
+2021-02-09,Raipur Road,155.93,86.79,23.05,28.68,189.0,2021,2,Tuesday,False,Winter,Moderate
+2021-02-10,Himalayan Drug (ISBT),177.65,106.87,24.87,28.68,256.0,2021,2,Wednesday,False,Winter,Poor
+2021-02-11,Clock Tower,175.15,93.51,23.7,27.7,212.0,2021,2,Thursday,False,Winter,Poor
+2021-02-12,Raipur Road,159.1,88.61,24.14,28.73,195.0,2021,2,Friday,False,Winter,Moderate
+2021-02-15,Himalayan Drug (ISBT),169.91,93.34,23.63,28.23,211.0,2021,2,Monday,False,Winter,Poor
+2021-02-16,Clock Tower,180.11,97.82,24.6,28.7,226.0,2021,2,Tuesday,False,Winter,Poor
+2021-02-17,Raipur Road,167.12,91.3,24.53,28.75,204.0,2021,2,Wednesday,False,Winter,Poor
+2021-02-18,Himalayan Drug (ISBT),183.7,102.76,24.37,29.6,243.0,2021,2,Thursday,False,Winter,Poor
+2021-02-19,Clock Tower,184.91,100.21,23.8,29.7,234.0,2021,2,Friday,False,Winter,Poor
+2021-02-20,Raipur Road,167.27,88.54,22.65,27.71,195.0,2021,2,Saturday,True,Winter,Moderate
+2021-02-22,Himalayan Drug (ISBT),184.9,100.65,23.81,27.58,236.0,2021,2,Monday,False,Winter,Poor
+2021-02-23,Clock Tower,197.54,98.56,24.6,28.6,229.0,2021,2,Tuesday,False,Winter,Poor
+2021-02-24,Raipur Road,158.63,92.51,23.63,27.26,208.0,2021,2,Wednesday,False,Winter,Poor
+2021-02-25,Himalayan Drug (ISBT),186.81,98.12,24.57,28.61,227.0,2021,2,Thursday,False,Winter,Poor
+2021-02-26,Clock Tower,186.71,104.25,24.0,28.6,248.0,2021,2,Friday,False,Winter,Poor
+2021-02-27,Raipur Road,152.65,94.26,22.6,27.17,214.0,2021,2,Saturday,True,Winter,Poor
+2021-03-01,Clock Tower,223.61,106.9,21.31,27.2,256.0,2021,3,Monday,False,Summer,Poor
+2021-03-02,Raipur Road,157.06,87.1,21.83,26.53,190.0,2021,3,Tuesday,False,Summer,Moderate
+2021-03-03,Himalayan Drug (ISBT),181.41,103.0,24.04,28.64,243.0,2021,3,Wednesday,False,Summer,Poor
+2021-03-04,Clock Tower,210.7,108.3,20.89,27.69,261.0,2021,3,Thursday,False,Summer,Poor
+2021-03-05,Raipur Road,158.73,88.2,22.66,26.93,194.0,2021,3,Friday,False,Summer,Moderate
+2021-03-06,Himalayan Drug (ISBT),175.0,105.0,24.47,28.06,250.0,2021,3,Saturday,True,Summer,Poor
+2021-03-08,Clock Tower,208.43,105.1,22.44,27.13,250.0,2021,3,Monday,False,Summer,Poor
+2021-03-09,Raipur Road,163.94,91.4,22.3,27.6,205.0,2021,3,Tuesday,False,Summer,Poor
+2021-03-10,Himalayan Drug (ISBT),177.65,108.0,24.81,28.57,260.0,2021,3,Wednesday,False,Summer,Poor
+2021-03-12,Clock Tower,203.15,107.6,22.13,26.47,259.0,2021,3,Friday,False,Summer,Poor
+2021-03-15,Raipur Road,166.84,86.7,23.46,26.77,189.0,2021,3,Monday,False,Summer,Moderate
+2021-03-16,Himalayan Drug (ISBT),169.91,110.0,23.56,28.1,267.0,2021,3,Tuesday,False,Summer,Poor
+2021-03-17,Clock Tower,247.39,108.9,22.58,27.67,263.0,2021,3,Wednesday,False,Summer,Poor
+2021-03-18,Raipur Road,186.99,90.4,23.06,27.63,201.0,2021,3,Thursday,False,Summer,Poor
+2021-03-19,Himalayan Drug (ISBT),183.7,108.0,24.25,29.6,260.0,2021,3,Friday,False,Summer,Poor
+2021-03-20,Clock Tower,246.51,109.8,23.34,27.28,266.0,2021,3,Saturday,True,Summer,Poor
+2021-03-22,Raipur Road,155.04,87.7,22.79,27.58,192.0,2021,3,Monday,False,Summer,Moderate
+2021-03-23,Himalayan Drug (ISBT),184.9,107.0,23.7,27.58,257.0,2021,3,Tuesday,False,Summer,Poor
+2021-03-24,Clock Tower,221.78,106.6,23.97,27.11,255.0,2021,3,Wednesday,False,Summer,Poor
+2021-03-25,Raipur Road,180.77,90.7,23.73,27.12,202.0,2021,3,Thursday,False,Summer,Poor
+2021-03-26,Himalayan Drug (ISBT),186.81,108.6,24.51,28.56,262.0,2021,3,Friday,False,Summer,Poor
+2021-03-27,Clock Tower,206.83,108.3,22.41,27.65,261.0,2021,3,Saturday,True,Summer,Poor
+2021-03-30,Raipur Road,166.47,88.4,22.65,27.06,195.0,2021,3,Tuesday,False,Summer,Moderate
+2021-03-31,Clock Tower,208.13,104.2,21.79,26.82,247.0,2021,3,Wednesday,False,Summer,Poor
+2021-04-01,Clock Tower,214.54,109.89,20.68,27.2,266.0,2021,4,Thursday,False,Summer,Poor
+2021-04-03,Raipur Road,171.5,88.28,20.56,26.45,194.0,2021,4,Saturday,True,Summer,Moderate
+2021-04-05,Himalayan Drug (ISBT),213.6,107.54,24.04,28.64,258.0,2021,4,Monday,False,Summer,Poor
+2021-04-06,Clock Tower,228.07,105.1,20.35,27.7,250.0,2021,4,Tuesday,False,Summer,Poor
+2021-04-07,Raipur Road,180.3,89.01,21.62,26.81,197.0,2021,4,Wednesday,False,Summer,Moderate
+2021-04-08,Himalayan Drug (ISBT),200.7,106.56,24.47,28.06,255.0,2021,4,Thursday,False,Summer,Poor
+2021-04-09,Clock Tower,224.5,110.8,22.58,27.3,269.0,2021,4,Friday,False,Summer,Poor
+2021-04-12,Raipur Road,172.2,87.09,21.8,27.67,190.0,2021,4,Monday,False,Summer,Moderate
+2021-04-15,Clock Tower,246.46,111.19,22.28,27.1,271.0,2021,4,Thursday,False,Summer,Poor
+2021-04-16,Raipur Road,167.9,90.14,20.75,26.61,200.0,2021,4,Friday,False,Summer,Moderate
+2021-04-17,Himalayan Drug (ISBT),227.3,102.33,24.81,28.57,241.0,2021,4,Saturday,True,Summer,Poor
+2021-04-19,Clock Tower,221.82,108.12,21.73,27.8,260.0,2021,4,Monday,False,Summer,Poor
+2021-04-20,Raipur Road,171.4,96.78,21.97,27.59,223.0,2021,4,Tuesday,False,Summer,Poor
+2021-04-22,Himalayan Drug (ISBT),156.7,94.58,23.56,28.1,215.0,2021,4,Thursday,False,Summer,Poor
+2021-04-24,Raipur Road,110.7,72.07,18.81,25.83,140.0,2021,4,Saturday,True,Summer,Moderate
+2021-04-29,Himalayan Drug (ISBT),145.1,78.56,22.08,25.79,162.0,2021,4,Thursday,False,Summer,Moderate
+2021-05-03,Clock Tower,130.84,72.31,20.07,23.97,141.0,2021,5,Monday,False,Summer,Moderate
+2021-05-05,Raipur Road,110.09,65.34,17.69,22.9,118.0,2021,5,Wednesday,False,Summer,Moderate
+2021-05-07,Himalayan Drug (ISBT),127.71,72.31,19.6,22.94,141.0,2021,5,Friday,False,Summer,Moderate
+2021-05-11,Clock Tower,120.71,68.29,18.3,22.78,128.0,2021,5,Tuesday,False,Summer,Moderate
+2021-05-13,Raipur Road,92.78,61.26,16.51,21.28,104.0,2021,5,Thursday,False,Summer,Moderate
+2021-05-15,Himalayan Drug (ISBT),121.47,68.29,18.5,22.17,128.0,2021,5,Saturday,True,Summer,Moderate
+2021-05-18,Clock Tower,125.37,71.88,18.62,23.13,140.0,2021,5,Tuesday,False,Summer,Moderate
+2021-05-21,Raipur Road,97.77,64.68,17.15,21.49,116.0,2021,5,Friday,False,Summer,Moderate
+2021-05-24,Himalayan Drug (ISBT),123.99,72.68,18.4,23.27,142.0,2021,5,Monday,False,Summer,Moderate
+2021-05-27,Clock Tower,125.57,73.65,19.84,23.4,146.0,2021,5,Thursday,False,Summer,Moderate
+2021-05-29,Raipur Road,100.5,62.12,18.75,22.2,107.0,2021,5,Saturday,True,Summer,Moderate
+2021-05-31,Himalayan Drug (ISBT),125.72,73.66,19.5,23.69,146.0,2021,5,Monday,False,Summer,Moderate
+2021-06-02,Clock Tower,115.74,72.49,21.04,24.0,142.0,2021,6,Wednesday,False,Monsoon,Moderate
+2021-06-04,Raipur Road,95.08,64.51,19.03,22.8,115.0,2021,6,Friday,False,Monsoon,Moderate
+2021-06-07,Himalayan Drug (ISBT),84.48,75.4,21.8,24.26,151.0,2021,6,Monday,False,Monsoon,Moderate
+2021-06-09,Clock Tower,112.09,70.95,20.63,24.87,137.0,2021,6,Wednesday,False,Monsoon,Moderate
+2021-06-11,Raipur Road,113.69,66.82,20.04,23.3,123.0,2021,6,Friday,False,Monsoon,Moderate
+2021-06-14,Himalayan Drug (ISBT),137.11,78.2,21.6,23.1,161.0,2021,6,Monday,False,Monsoon,Moderate
+2021-06-16,Clock Tower,117.21,75.58,20.13,23.19,152.0,2021,6,Wednesday,False,Monsoon,Moderate
+2021-06-21,Raipur Road,120.52,68.18,21.23,20.6,127.0,2021,6,Monday,False,Monsoon,Moderate
+2021-06-23,Himalayan Drug (ISBT),151.51,76.4,20.0,25.11,155.0,2021,6,Wednesday,False,Monsoon,Moderate
+2021-06-25,Clock Tower,146.38,72.04,22.09,24.28,140.0,2021,6,Friday,False,Monsoon,Moderate
+2021-06-28,Raipur Road,126.84,67.76,20.17,23.2,126.0,2021,6,Monday,False,Monsoon,Moderate
+2021-06-30,Himalayan Drug (ISBT),158.56,73.2,22.1,25.14,144.0,2021,6,Wednesday,False,Monsoon,Moderate
+2021-07-01,Clock Tower,166.56,78.46,22.23,24.95,162.0,2021,7,Thursday,False,Monsoon,Moderate
+2021-07-02,Raipur Road,137.93,72.45,19.95,24.07,142.0,2021,7,Friday,False,Monsoon,Moderate
+2021-07-05,Clock Tower,190.4,74.05,23.36,25.15,160.0,2021,7,Monday,False,Monsoon,Moderate
+2021-07-06,Raipur Road,133.78,77.14,21.04,24.6,157.0,2021,7,Tuesday,False,Monsoon,Moderate
+2021-07-07,Himalayan Drug (ISBT),192.92,82.41,22.47,26.1,175.0,2021,7,Wednesday,False,Monsoon,Moderate
+2021-07-08,Clock Tower,134.06,71.14,22.16,24.44,137.0,2021,7,Thursday,False,Monsoon,Moderate
+2021-07-09,Raipur Road,117.57,70.21,21.89,23.83,134.0,2021,7,Friday,False,Monsoon,Moderate
+2021-07-14,Raipur Road,117.87,79.35,21.47,24.63,165.0,2021,7,Wednesday,False,Monsoon,Moderate
+2021-07-15,Himalayan Drug (ISBT),140.74,77.29,21.96,25.37,158.0,2021,7,Thursday,False,Monsoon,Moderate
+2021-07-17,Raipur Road,109.25,69.05,18.97,22.92,130.0,2021,7,Saturday,True,Monsoon,Moderate
+2021-07-19,Himalayan Drug (ISBT),128.74,75.14,22.55,24.98,150.0,2021,7,Monday,False,Monsoon,Moderate
+2021-07-23,Himalayan Drug (ISBT),124.91,70.89,22.04,25.01,136.0,2021,7,Friday,False,Monsoon,Moderate
+2021-07-27,Himalayan Drug (ISBT),119.75,80.41,21.0,25.31,168.0,2021,7,Tuesday,False,Monsoon,Moderate
+2021-07-29,Himalayan Drug (ISBT),109.57,73.04,21.41,24.65,143.0,2021,7,Thursday,False,Monsoon,Moderate
+2021-07-30,Clock Tower,108.43,80.49,21.31,23.47,168.0,2021,7,Friday,False,Monsoon,Moderate
+2021-07-31,Himalayan Drug (ISBT),115.77,79.82,19.62,22.53,166.0,2021,7,Saturday,True,Monsoon,Moderate
+2021-08-02,Clock Tower,115.39,103.56,22.05,25.22,245.0,2021,8,Monday,False,Monsoon,Poor
+2021-08-06,Raipur Road,113.94,81.02,20.41,24.74,170.0,2021,8,Friday,False,Monsoon,Moderate
+2021-08-09,Clock Tower,120.13,101.89,20.89,25.22,240.0,2021,8,Monday,False,Monsoon,Poor
+2021-08-10,Raipur Road,113.02,84.17,20.86,23.95,181.0,2021,8,Tuesday,False,Monsoon,Moderate
+2021-08-11,Himalayan Drug (ISBT),123.92,101.56,21.9,25.05,239.0,2021,8,Wednesday,False,Monsoon,Poor
+2021-08-12,Clock Tower,124.12,95.42,22.16,23.77,218.0,2021,8,Thursday,False,Monsoon,Poor
+2021-08-16,Himalayan Drug (ISBT),126.95,103.02,22.12,24.13,243.0,2021,8,Monday,False,Monsoon,Poor
+2021-08-17,Clock Tower,118.51,97.12,21.77,24.74,224.0,2021,8,Tuesday,False,Monsoon,Poor
+2021-08-18,Raipur Road,113.24,89.06,19.84,23.02,197.0,2021,8,Wednesday,False,Monsoon,Moderate
+2021-08-19,Himalayan Drug (ISBT),120.51,101.46,19.89,24.8,238.0,2021,8,Thursday,False,Monsoon,Poor
+2021-08-23,Himalayan Drug (ISBT),113.31,102.36,18.9,23.87,241.0,2021,8,Monday,False,Monsoon,Poor
+2021-09-02,Raipur Road,107.94,71.09,19.33,24.74,137.0,2021,9,Thursday,False,Monsoon,Moderate
+2021-09-03,Himalayan Drug (ISBT),117.68,85.07,22.18,23.93,184.0,2021,9,Friday,False,Monsoon,Moderate
+2021-09-04,Clock Tower,102.89,72.02,20.95,24.835,140.0,2021,9,Saturday,True,Monsoon,Moderate
+2021-09-06,Raipur Road,104.72,68.11,20.35,23.95,127.0,2021,9,Monday,False,Monsoon,Moderate
+2021-09-08,Clock Tower,95.86,68.05,19.9,24.06,127.0,2021,9,Wednesday,False,Monsoon,Moderate
+2021-09-10,Himalayan Drug (ISBT),107.39,81.02,19.89,24.8,170.0,2021,9,Friday,False,Monsoon,Moderate
+2021-09-14,Raipur Road,102.99,70.18,17.86,22.86,134.0,2021,9,Tuesday,False,Monsoon,Moderate
+2021-09-15,Himalayan Drug (ISBT),111.18,84.79,19.0,23.83,183.0,2021,9,Wednesday,False,Monsoon,Moderate
+2021-09-16,Clock Tower,86.91,70.17,18.82,23.07,134.0,2021,9,Thursday,False,Monsoon,Moderate
+2021-09-18,Himalayan Drug (ISBT),106.47,80.02,19.6,22.92,167.0,2021,9,Saturday,True,Monsoon,Moderate
+2021-09-20,Clock Tower,105.36,75.61,19.8,24.18,152.0,2021,9,Monday,False,Monsoon,Moderate
+2021-09-21,Raipur Road,105.14,76.68,19.03,22.81,156.0,2021,9,Tuesday,False,Monsoon,Moderate
+2021-09-22,Himalayan Drug (ISBT),108.64,87.16,20.08,23.99,191.0,2021,9,Wednesday,False,Monsoon,Moderate
+2021-09-25,Himalayan Drug (ISBT),116.91,89.03,20.92,24.83,197.0,2021,9,Saturday,True,Monsoon,Moderate
+2021-09-27,Clock Tower,111.05,81.02,20.2,22.47,170.0,2021,9,Monday,False,Monsoon,Moderate
+2021-09-28,Raipur Road,105.5,72.02,17.82,22.79,140.0,2021,9,Tuesday,False,Monsoon,Moderate
+2021-09-30,Clock Tower,95.55,74.06,17.91,22.02,147.0,2021,9,Thursday,False,Monsoon,Moderate
+2021-10-01,Clock Tower,116.63,86.21,18.95,23.0,187.0,2021,10,Friday,False,Post-Monsoon,Moderate
+2021-10-04,Raipur Road,111.75,82.05,19.33,24.7,174.0,2021,10,Monday,False,Post-Monsoon,Moderate
+2021-10-05,Himalayan Drug (ISBT),120.93,94.16,22.18,23.9,214.0,2021,10,Tuesday,False,Post-Monsoon,Poor
+2021-10-06,Clock Tower,127.76,87.31,21.09,24.8,191.0,2021,10,Wednesday,False,Post-Monsoon,Moderate
+2021-10-07,Raipur Road,121.01,84.11,20.35,24.0,180.0,2021,10,Thursday,False,Post-Monsoon,Moderate
+2021-10-11,Clock Tower,132.99,89.4,22.1,26.0,198.0,2021,10,Monday,False,Post-Monsoon,Moderate
+2021-10-12,Raipur Road,124.46,79.02,0.0,0.0,,2021,10,Tuesday,False,Post-Monsoon,
+2021-10-13,Himalayan Drug (ISBT),127.79,96.05,21.1,24.4,220.0,2021,10,Wednesday,False,Post-Monsoon,Poor
+2021-10-16,Raipur Road,112.04,81.07,18.71,23.1,170.0,2021,10,Saturday,True,Post-Monsoon,Moderate
+2021-10-21,Himalayan Drug (ISBT),136.59,97.7,21.86,24.1,226.0,2021,10,Thursday,False,Post-Monsoon,Poor
+2021-10-22,Clock Tower,133.34,88.65,23.19,26.12,196.0,2021,10,Friday,False,Post-Monsoon,Moderate
+2021-10-23,Raipur Road,127.91,80.05,19.24,23.9,167.0,2021,10,Saturday,True,Post-Monsoon,Moderate
+2021-10-26,Clock Tower,137.77,87.13,21.61,24.87,190.0,2021,10,Tuesday,False,Post-Monsoon,Moderate
+2021-10-27,Raipur Road,125.87,83.04,20.22,23.0,177.0,2021,10,Wednesday,False,Post-Monsoon,Moderate
+2021-10-28,Himalayan Drug (ISBT),141.38,95.09,22.16,25.1,217.0,2021,10,Thursday,False,Post-Monsoon,Poor
+2021-11-02,Raipur Road,145.23,88.58,17.42,24.0,195.0,2021,11,Tuesday,False,Post-Monsoon,Moderate
+2021-11-03,Himalayan Drug (ISBT),158.59,98.7,20.4,25.0,229.0,2021,11,Wednesday,False,Post-Monsoon,Poor
+2021-11-09,Raipur Road,140.22,84.5,18.45,25.0,182.0,2021,11,Tuesday,False,Post-Monsoon,Moderate
+2021-11-11,Himalayan Drug (ISBT),150.13,96.27,20.08,25.0,221.0,2021,11,Thursday,False,Post-Monsoon,Poor
+2021-11-12,Clock Tower,155.02,93.49,18.8,24.0,212.0,2021,11,Friday,False,Post-Monsoon,Poor
+2021-11-16,Himalayan Drug (ISBT),155.6,94.55,21.13,24.0,215.0,2021,11,Tuesday,False,Post-Monsoon,Poor
+2021-11-17,Clock Tower,146.26,91.08,19.9,25.0,204.0,2021,11,Wednesday,False,Post-Monsoon,Poor
+2021-11-18,Raipur Road,149.82,87.88,17.0,25.0,193.0,2021,11,Thursday,False,Post-Monsoon,Moderate
+2021-11-20,Himalayan Drug (ISBT),157.25,95.15,21.92,25.0,217.0,2021,11,Saturday,True,Post-Monsoon,Poor
+2021-11-22,Clock Tower,150.92,92.11,21.6,26.0,207.0,2021,11,Monday,False,Post-Monsoon,Poor
+2021-11-23,Raipur Road,145.46,86.14,18.62,24.0,187.0,2021,11,Tuesday,False,Post-Monsoon,Moderate
+2021-11-24,Clock Tower,149.35,89.06,18.8,25.0,197.0,2021,11,Wednesday,False,Post-Monsoon,Moderate
+2021-11-25,Himalayan Drug (ISBT),155.33,93.2,22.47,26.0,211.0,2021,11,Thursday,False,Post-Monsoon,Poor
+2021-11-26,Clock Tower,159.43,90.05,20.3,26.0,200.0,2021,11,Friday,False,Post-Monsoon,Moderate
+2021-11-27,Raipur Road,145.83,83.07,19.46,25.0,177.0,2021,11,Saturday,True,Post-Monsoon,Moderate
+2021-11-30,Clock Tower,154.47,87.12,20.8,26.0,190.0,2021,11,Tuesday,False,Post-Monsoon,Moderate
+2021-11-30,Himalayan Drug (ISBT),159.61,97.06,23.07,27.0,224.0,2021,11,Tuesday,False,Post-Monsoon,Poor
+2021-12-01,Clock Tower,148.06,88.37,20.33,23.85,195.0,2021,12,Wednesday,False,Winter,Moderate
+2021-12-02,Raipur Road,149.61,84.02,18.0,23.79,180.0,2021,12,Thursday,False,Winter,Moderate
+2021-12-03,Himalayan Drug (ISBT),158.59,98.7,20.33,24.99,229.0,2021,12,Friday,False,Winter,Poor
+2021-12-04,Clock Tower,159.82,91.51,20.58,25.3,205.0,2021,12,Saturday,True,Winter,Poor
+2021-12-06,Raipur Road,142.41,82.3,18.4,23.92,174.0,2021,12,Monday,False,Winter,Moderate
+2021-12-07,Himalayan Drug (ISBT),150.13,96.27,19.95,24.59,221.0,2021,12,Tuesday,False,Winter,Poor
+2021-12-09,Raipur Road,149.53,76.91,17.6,23.92,156.0,2021,12,Thursday,False,Winter,Moderate
+2021-12-10,Himalayan Drug (ISBT),155.6,94.55,21.09,25.66,215.0,2021,12,Friday,False,Winter,Poor
+2021-12-11,Clock Tower,154.39,87.11,20.06,24.78,190.0,2021,12,Saturday,True,Winter,Moderate
+2021-12-14,Raipur Road,150.52,80.13,18.7,23.62,167.0,2021,12,Tuesday,False,Winter,Moderate
+2021-12-15,Himalayan Drug (ISBT),157.25,95.15,21.86,24.64,217.0,2021,12,Wednesday,False,Winter,Poor
+2021-12-16,Clock Tower,159.86,89.07,19.5,25.43,197.0,2021,12,Thursday,False,Winter,Moderate
+2021-12-17,Raipur Road,152.3,81.07,19.4,21.86,170.0,2021,12,Friday,False,Winter,Moderate
+2021-12-18,Himalayan Drug (ISBT),155.33,93.2,22.57,25.56,211.0,2021,12,Saturday,True,Winter,Poor
+2021-12-20,Clock Tower,163.6,92.77,20.7,25.05,209.0,2021,12,Monday,False,Winter,Poor
+2021-12-21,Raipur Road,155.42,83.15,18.6,22.8,177.0,2021,12,Tuesday,False,Winter,Moderate
+2021-12-22,Himalayan Drug (ISBT),159.61,97.06,23.49,26.56,224.0,2021,12,Wednesday,False,Winter,Poor
+2021-12-23,Clock Tower,162.27,91.3,20.83,25.34,204.0,2021,12,Thursday,False,Winter,Poor
+2021-12-24,Himalayan Drug (ISBT),169.44,90.75,23.01,25.9,203.0,2021,12,Friday,False,Winter,Poor
+2021-12-27,Himalayan Drug (ISBT),169.56,91.42,23.84,26.66,205.0,2021,12,Monday,False,Winter,Poor
+2021-12-28,Clock Tower,159.1,93.33,21.33,24.9,211.0,2021,12,Tuesday,False,Winter,Poor
+2021-12-29,Himalayan Drug (ISBT),168.78,87.08,22.97,25.9,190.0,2021,12,Wednesday,False,Winter,Moderate
+2021-12-30,Clock Tower,168.9,92.72,19.99,25.29,209.0,2021,12,Thursday,False,Winter,Poor
+2021-12-31,Himalayan Drug (ISBT),161.97,88.35,23.77,26.69,195.0,2021,12,Friday,False,Winter,Moderate
